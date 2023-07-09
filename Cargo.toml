@@ -1,5 +1,5 @@
 [package]
-name = "rename_video_file"
+name = "rename_video_files"
 version = "0.1.0"
 edition = "2021"
 
